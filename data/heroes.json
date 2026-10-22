@@ -1,0 +1,14 @@
+{
+  "1": {"name": "Anti-Mage", "icon": "antimage.png"},
+  "2": {"name": "Axe", "icon": "axe.png"},
+  "5": {"name": "Crystal Maiden", "icon": "crystal_maiden.png"},
+  "8": {"name": "Juggernaut", "icon": "juggernaut.png"},
+  "11": {"name": "Shadow Fiend", "icon": "nevermore.png"},
+  "14": {"name": "Pudge", "icon": "pudge.png"},
+  "21": {"name": "Windranger", "icon": "windrunner.png"},
+  "35": {"name": "Sniper", "icon": "sniper.png"},
+  "41": {"name": "Faceless Void", "icon": "faceless_void.png"},
+  "48": {"name": "Luna", "icon": "luna.png"},
+  "74": {"name": "Invoker", "icon": "invoker.png"},
+  "94": {"name": "Medusa", "icon": "medusa.png"}
+}
