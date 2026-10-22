@@ -1,0 +1,1 @@
+"""Runtime state containers shared across pipeline stages."""
