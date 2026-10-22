@@ -1,0 +1,1 @@
+"""Long-lived services: hero metadata, config loader, offset refresher."""
