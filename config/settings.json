@@ -1,0 +1,20 @@
+{
+  "process_name": "dota2.exe",
+  "poll_interval_ms": 16,
+  "overlay": {
+    "enabled": true,
+    "draw_boxes": true,
+    "draw_health": true,
+    "draw_hero_icons": true,
+    "max_distance": 4000
+  },
+  "esp": {
+    "team_filter": "enemy",
+    "font_size": 12,
+    "box_padding": 4
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/esp.log"
+  }
+}
